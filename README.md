@@ -9,6 +9,10 @@ If you want to keep the stock comma boot animation, please back it up, I also ha
 
 If anyone is interested also in the Gimp files I can provide
 
+
+Im also not sure if the provided bootanimation.zip is a working version, sorry.
+
+
 ## How to Use
 [Useful Guide 1](https://usmile.at/blog/how-to-customize-your-android-boot-animation)
 [Useful Guide 2](https://android.googlesource.com/platform/frameworks/base/+/master/cmds/bootanimation/FORMAT.md)
